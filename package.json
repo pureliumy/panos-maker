@@ -1,0 +1,29 @@
+{
+  "name": "panos-maker",
+  "version": "0.0.1",
+  "description": "make panos in one time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pureliumy/panos-maker.git"
+  },
+  "keywords": [
+    "panorama"
+  ],
+  "author": "liumy",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/pureliumy/panos-maker/issues"
+  },
+  "homepage": "https://github.com/pureliumy/panos-maker#readme",
+  "devDependencies": {
+    "babel-plugin-external-helpers": "^6.22.0",
+    "jest": "^22.4.3",
+    "rollup": "^0.58.2",
+    "rollup-plugin-babel": "^3.0.4",
+    "rollup-plugin-node-resolve": "^3.3.0"
+  }
+}
